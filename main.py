@@ -22,7 +22,7 @@ Hello {},
 
 `Iam a Simple Google Translater Bot. Send Me Any Text & Select Desired Language`
 
-**Made With ❤ By @BX_Botz**
+**Made With ❤ By @figletaxl**
 """
 HELP_TEXT = """
 ✪ `Just send a text with language code`
@@ -34,13 +34,13 @@ HELP_TEXT = """
 ABOUT_TEXT = """
 🤖 **Bot** : **Gᴏᴏɢʟᴇ Tʀᴀɴsʟᴀᴛᴏʀ**
 
-👨‍💻 **Dᴇᴠᴇʟᴏᴘᴇʀ** : [ᴍᴜꜰᴀᴢ 🇮🇳](https://telegram.me/Mufaz123)
+👨‍💻 **Dᴇᴠᴇʟᴏᴘᴇʀ** : [ᴍᴜꜰᴀᴢ 🇮🇳](https://telegram.me/figletaxl)
 
-📣 **Cʜᴀɴɴᴇʟ** : [BX Bᴏᴛᴢ](https://t.me/BX_Botz)
+📣 **Cʜᴀɴɴᴇʟ** : [BX Bᴏᴛᴢ](https://t.me/invisiblexseller)
 
-👥 **Gʀᴏᴜᴘ** : [ʙx sᴜᴘᴘᴏʀᴛ](https://t.me/BxSupport)
+👥 **Chanel** : [ʙx sᴜᴘᴘᴏʀᴛ](https://t.me/invisiblexseller)
 
-🌐 **Sᴏᴜʀᴄᴇ** : [Cʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/nokiyirunnoippokitum)
+🌐 **Sᴏᴜʀᴄᴇ** : [Cʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/invisiblexseller)
 
 🎧 **Lᴀɴɢᴜᴀɢᴇ** : [Pʏᴛʜᴏɴ𝟹](https://python.org/)
 
@@ -50,8 +50,8 @@ ABOUT_TEXT = """
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🤖 Update Channel', url='https://telegram.me/BX_Botz'),
-        InlineKeyboardButton('🎨 Support Group', url='https://telegram.me/BXSUPPORT')
+        InlineKeyboardButton('🤖 Update Channel', url='https://telegram.me/invisiblexseller'),
+        InlineKeyboardButton('🎨 Support Group', url='https://telegram.me/invisiblexseller')
         ],[
         InlineKeyboardButton('🛠️ Help', callback_data='help'),
         InlineKeyboardButton('🔮 About', callback_data='about')
@@ -78,7 +78,7 @@ CLOSE_BUTTON = InlineKeyboardMarkup(
     )
 TRANSLATE_BUTTON = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('♻️ Join Updates Channel ♻️', url='https://telegram.me/BX_Botz')
+        InlineKeyboardButton('♻️ Join Updates Channel ♻️', url='https://telegram.me/invisiblexseller')
         ]]
     )
 LANGUAGE_BUTTONS = InlineKeyboardMarkup(
